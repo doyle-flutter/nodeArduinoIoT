@@ -1,0 +1,19 @@
+{
+  "name": "ard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ardunode.js",
+  "scripts": {
+    "start" : "node ar.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "express": "^4.17.1",
+    "johnny-five": "^2.0.0",
+    "node-cmd": "^4.0.0",
+    "s": "^1.0.0"
+  }
+}
